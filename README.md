@@ -1,6 +1,6 @@
 # 🚀 Sales Data Pipeline & Analytics Dashboard
 
-![Project Banner](screenshots/banner.png)
+![Project Banner](dashboard/banner.png)
 
 ## 📊 Overview
 This project builds a complete data pipeline and analytics system to turn raw sales data into meaningful business insights. The system simulates a real world consumer product company and focuses on improving data accessibility, automation, and decision making.
