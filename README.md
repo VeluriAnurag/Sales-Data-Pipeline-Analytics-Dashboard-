@@ -30,7 +30,7 @@ Raw Data → ETL Pipeline (Python) → PostgreSQL → Power BI Dashboard
 ![Dashboard 1](dashboard/Sales_Performance_Dashboard.png)
 
 ### Regional Performance
-![Dashboard 2](dashboard/Product_Performance.png)
+![Dashboard 2](dashboard/Product_Performace.png)
 
 ---
 
